@@ -1,0 +1,2 @@
+# CE-MCP Server
+# 纯 Python 标准库实现，无外部依赖（Python 3.8+）

@@ -1,0 +1,15 @@
+# IPC 运行时临时文件
+ipc/
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 本机配置（含本机路径，不入库；参照 config.example.json 自建）
+config.json
+
+# 编辑器
+.vscode/
+.idea/
